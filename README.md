@@ -22,12 +22,12 @@
 | stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
 | practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
 
----
+
 ### Contacts:
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Kotya_Kostya_nya) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:konstantin.bazhenov.33@gmail.com)
 
----
+
 
 <!--
 **kotyakostya1/kotyakostya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
