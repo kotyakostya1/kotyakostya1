@@ -1,6 +1,5 @@
 # Привет, меня зовут Константин!
 
----
 ### Stack:
 
 ![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=pandas)
@@ -10,9 +9,7 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-090909?style=for-the-badge&logo=seaborn&logoColor=0ABAB5)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-090909?style=for-the-badge&logo=Matplotlib&logoColor=E9D54D)
 
----
-
-<!-- ### 💻 Пройденные курсы:
+### 💻 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
@@ -25,7 +22,6 @@
 | stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
 | practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
 
---- -->
 ---
 ### Contacts:
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-bazhenovkonstantin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Kotya_Kostya_nya) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:konstantin.bazhenov.33@gmail.com)
