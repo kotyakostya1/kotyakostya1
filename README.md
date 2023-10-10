@@ -4,7 +4,7 @@
 
 ![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-090909?style=for-the-badge&logo=numpy&logoColor=47C5FB)
-![SKlearn](https://img.shields.io/badge/-SKlearn-090909?style=for-the-badge&logo=sklearn&logoColor=F88C00)
+![SKlearn](https://img.shields.io/badge/-SKlearn-090909?style=for-the-badge&logo=scikitlearn&logoColor=F88C00)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-090909?style=for-the-badge&logo=seaborn&logoColor=0ABAB5)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-090909?style=for-the-badge&logo=Matplotlib&logoColor=E9D54D)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-090909?style=for-the-badge&logo=OpenCV&logoColor=E5D3FF)
