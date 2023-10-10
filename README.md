@@ -3,11 +3,11 @@
 ### Stack:
 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/-Numpy-090909?style=flat&logo=numpy&logoColor=47C5FB)
-![Scikit-learn](https://img.shields.io/badge/-SKlearn-090909?style=flat&logo=scikitlearn&logoColor=F7931E)
-![OpenCV](https://img.shields.io/badge/-OpenCV-090909?style=for-the-badge&logo=OpenCV&logoColor=5C3EE8)
-![Seaborn](https://img.shields.io/badge/-Seaborn-090909?style=for-the-badge&logo=seaborn&logoColor=0ABAB5)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-090909?style=for-the-badge&logo=Matplotlib&logoColor=E9D54D)
+![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-SKlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-090909?style=flat&logo=seaborn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-090909?style=flat&logo=Matplotlib&logoColor=white)
 
 ### 💻 Пройденные курсы:
 
