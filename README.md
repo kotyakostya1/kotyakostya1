@@ -9,7 +9,7 @@ Hi, I'm Bazhenov Konstantin, a beginner data scientist.
 ![Seaborn](https://img.shields.io/badge/-Seaborn-0A96A4?style=flat&logo=seaborn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-FEB734?style=flat&logo=matplotlib&logoColor=white)
 
-### 💻 Completed courses 
+### 💻 Completed courses:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
