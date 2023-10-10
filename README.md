@@ -1,6 +1,6 @@
-# Привет, меня зовут Константин!
-
-### Stack:
+# Welcome to my page!
+Hi, I'm Bazhenov Konstantin, a beginner data scientist.
+### Languages and Tools:
 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-SKlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
