@@ -4,10 +4,10 @@
 
 ![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-090909?style=for-the-badge&logo=numpy&logoColor=47C5FB)
-![Scikit-learn](https://img.shields.io/badge/-SKlearn-090909?style=for-the-badge&logo=scikitlearn&logoColor=F88C00)
+![Scikit-learn](https://img.shields.io/badge/-SKlearn-090909?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![OpenCV](https://img.shields.io/badge/-OpenCV-090909?style=for-the-badge&logo=OpenCV&logoColor=5C3EE8)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-090909?style=for-the-badge&logo=seaborn&logoColor=0ABAB5)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-090909?style=for-the-badge&logo=Matplotlib&logoColor=E9D54D)
-![OpenCV](https://img.shields.io/badge/-OpenCV-090909?style=for-the-badge&logo=OpenCV&logoColor=E5D3FF)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 
 <!-- ### 💻 Пройденные курсы:
