@@ -8,20 +8,16 @@ Hi, I'm Bazhenov Konstantin, a beginner data scientist.
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-00FFFF?style=flat&logo=xboost&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-0A96A4?style=flat&logo=seaborn&logoColor=white)
-![Matplotlib](-Matplotlib-FEB734?style=flat&logo=matplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-FEB734?style=flat&logo=matplotlib&logoColor=white)
 
 ### 💻 Completed courses:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
-| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
-| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
-| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
-| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
+| stepik.org/Основы статистики                                    | 02/2023 - 03/2023 |
+| stepik.org/Нейронные сети и компьютерное зрение                 | 03/2022 - 05/2022 |
+| stepik.org/Основы статистики Часть 2                            | 05/2022 - 06/2022 |
+| stepik.org/Введение в Data Science и машинное обучение          | 06/2022 - 06/2022 |
 
 
 ### Contacts:
