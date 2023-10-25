@@ -8,7 +8,7 @@ Hi, I'm Bazhenov Konstantin, a beginner data scientist.
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-00FFFF?style=flat&logo=xboost&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-0A96A4?style=flat&logo=seaborn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-FEB734?style=flat&logo=matplotlib&logoColor=white)
+![Matplotlib](-Matplotlib-FEB734?style=flat&logo=matplotlib&logoColor=white)
 
 ### 💻 Completed courses:
 
